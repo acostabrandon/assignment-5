@@ -1,0 +1,41 @@
+Brandon Acosta
+
+EDUCATION
+Loyola Marymount University | Los Angeles, CA	May 2026 
+Master of Science in Business Analytics (STEM)
+Honors: LMU Merit Scholarship | Program Senator, CBAGSA
+
+University of California, Irvine | Irvine, CA	March 2023
+Bachelor of Arts in Business Administration
+Specializations: Operations & Decision Technologies, Marketing
+
+
+EXPERIENCE
+EndyMed Medical, Inc. (medical device manufacturer) | Remote	February 2025  - Present
+Sales Operations Manager
+Oversee order processing through Priority ERP, including order entry, major sales approvals, invoicing after shipment, and technical automations to the 3PL platform, ensuring compliance with medical device standards for quality assurance. 
+Manage warehouse inventory by performing quarterly reviews and leading projects to reduce inventory holding costs by 25%, such as excess loaner removal and discontinuation of old SKUs.
+Ensure Shopify automations for DTC store run smoothly, including inventory sync, order fulfillment notifications, returns when needed, and analytics for monthly management reports. 
+Built SOP library across all company departments relating to customer support escalation, event management protocols, and order processing procedures for cross-functional collaboration. 
+Identified and removed bottlenecks in event management procedures, in-person trainings, demo equipment fulfillment, and warranty-related service calls. 
+Standardized CRM tools for B2B sales teams, creating automated deal pipelines, email nurture sequences, and a KPI dashboard for managerial insights and individual contributor activity tracking. 
+
+Med Results Inc. (medical device distributor) | Glendale, CA  	May 2024  - January 2025
+Office Manager
+Coordinated outbound shipments of medical devices, managing packaging, order documentation, and clinical training scheduling post-shipment to ensure compliance with company protocols. 
+Tracked inventory and reconciliation of finished goods, demo, and service devices, ensuring availability for in-person events and forecasting client loaner needs. 
+Partnered with CRO and sales team to support event logistics, ensuring shipment of company supplies to an average of 2 national events per weekend. 
+Developed process documents for order handoff and email templates for post-sales support, creating consistent customer experiences. 
+
+Dotted Line MFG (PPE manufacturer) | Los Angeles, CA 	April 2020 - December 2020 
+Operations Coordinator
+Automated B2B sample fulfillment system utilizing Zapier coding and Shipstation, reducing order processing by 50% and implementing improved tracking notifications. 
+Onboarded over 50 SKUs into Amazon Seller Central, creating warehouse-compliant barcode stickers, and assessing inventory needs based on catalog of DTC products. 
+Transitioned Shopify order fulfillment to ShipBob 3PL, removing the need for manual order fulfillment as company grew. 
+
+SKILLS
+Order & Inventory Management: Multi-Channel Order Processing, 3PL Management, Inventory Control, Priority ERP, Amazon Seller Central Onboarding, Order Automation
+E-Commerce & CRM: Shopify, Monday CRM, HubSpot, PipeDrive, Zapier, Power Automate, SharePoint
+Analytics: Excel (Power Query, PivotTables), SQL, Tableau, Google Sheets, Python, R (segmentation, survival analysis), Google Analytics, Data Management
+Operations: QuickBooks, WordPress, SquareSpace, Canva, Event Management, MailChimp, SOP Development, Process Improvement, Customer Success
+Languages: Fluent in Spanish
