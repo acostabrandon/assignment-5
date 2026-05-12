@@ -1,0 +1,73 @@
+About the job
+At Curana Health, we’re on a mission to radically improve the health, happiness, and dignity of older adults—and we’re looking for passionate people to help us do it.
+
+As a national leader in value-based care, we offer senior living communities and skilled nursing facilities a wide range of solutions (including on-site primary care services, Accountable Care Organizations, and Medicare Advantage Special Needs Plans) proven to enhance health outcomes, streamline operations, and create new financial opportunities.
+
+Founded in 2021, we’ve grown quickly—now serving 200,000+ seniors in 1,500+ communities across 32 states. Our team includes more than 1,000 clinicians alongside care coordinators, analysts, operators, and professionals from all backgrounds, all working together to deliver high-quality, proactive solutions for senior living operators and those they care for.
+
+If you’re looking to make a meaningful impact on the senior healthcare landscape, you’re in the right place—and we look forward to working with you.
+
+Summary
+
+For more information about our company, visit CuranaHealth.com.
+
+The Business Analyst, Strategic Operations position serves as a dynamic analytics partner on our Strategic Operations team, responsible for recurring and ad-hoc reporting, structured analysis, and data synthesis across broad operational initiatives.
+
+This is a high-ownership execution role. You will turn evolving operational questions into clean, defensible analyses that directly inform how we operate and where we go next. Success comes from analytical rigor, speed, and ownership, paired with a strong ability to learn complex workflows quickly.
+
+Over time, this role is expected to become a core analytics pillar within the team, with a clear path to senior analyst responsibilities and growing scope.
+
+Essential Duties & Responsibilities
+
+Analytical Execution
+
+Build SQL queries to pull, join, and validate data across Curana’s environment.
+Develop and iterate on Excel-based models and analyses to support operational decision-making.
+Own ad-hoc analyses driven by evolving questions from operations leadership and cross-functional partners.
+
+Reporting & Synthesis
+
+Refresh and maintain recurring reports with high reliability and low error rates.
+Translate analytical outputs into clean tables, charts, and summary-level observations.
+Draft slides and written summaries that communicate findings clearly to internal stakeholders, including members of the executive team leadership.
+
+Initiative Support 
+
+Contribute data diligence, analytics, reporting, and communication support for operations and scaling efforts.
+Provide early-idea feasibility analyses and audit cross-team conclusions as opportunities arise.
+Partner with stakeholders to ensure proper understanding of requirements, answering questions and facilitating smooth execution.
+Assist in developing test plans and execute testing for reports and analytics tools before UAT deployment
+
+Process Improvement, Automation & Documentation
+
+Use AI tools to operate more efficiently across analytical and operational workflows
+Automate and streamline repetitive analytical workflows.
+Build reusable queries, models, and analysis templates that improve repeatability.
+Maintain SOP-style documentation for recurring analytics workflows.
+
+Qualifications
+
+0–2+ years in an analytical role (internship or full-time); healthcare experience preferred but not required.
+Advanced Excel, including modeling-level proficiency. This is non-negotiable.
+SQL experience, or a demonstrated ability to learn SQL rapidly.
+Proven ability to work with messy, ambiguous data and produce clean, defensible outputs.
+Strong analytical discipline: you validate your outputs before sending and care about getting the numbers right.
+Ownership mindset: you don’t wait to be pushed toward progress, you communicate blockers early, and you treat deliverables as yours to own.
+Clear, frequent communication style; comfortable giving and receiving direct feedback.
+Genuine curiosity about healthcare operations and a willingness to learn complex workflows quickly.
+Bachelor’s degree in a quantitative, business, healthcare, or related field.
+
+Bonus Points For
+
+PowerPoint / ThinkCell proficiency.
+Experience with BI tools (Power BI).
+R, Python, or other statistical/scripting tools.
+Exposure to healthcare claims, value-based care, or senior living operations.
+
+What's In It For You
+
+Real ownership early. You’ll be shaping how a core analytics function operates—not inheriting a rigid playbook.
+Early opportunity to shape how our central operations team incorporates AI into our workflows to drive efficiencies
+A front-row seat to how a value-based care business actually runs: operations, strategy, rolling out programs, integration and M&A, not just a narrow slice.
+A vibrant, young team with a strong culture and a mission that matters.
+Remote work and a semi-flexible schedule.

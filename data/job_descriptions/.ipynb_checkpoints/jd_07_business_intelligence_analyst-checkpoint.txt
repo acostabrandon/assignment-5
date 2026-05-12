@@ -1,0 +1,61 @@
+About the job
+Job Title: Business Intelligence Analyst
+
+Job Location: 3 days a week in our El Segundo, CA HQ (Tuesday's mandatory), 2 days remote
+
+Company Description
+
+Greater Good Health is a fast-growing organization delivering care to older adults in access starved communities. Our innovative model is led by Nurse Practitioners and focused on outcomes, not volume—meaning we prioritize quality over quantity, spend more time with our patients, and are accountable for their health and well-being.
+
+Whether through our own senior-focused primary care clinics or our suite of integrated clinical solutions for health plans and provider groups, we are making value-based care more accessible and more effective. We help reduce avoidable healthcare costs, improve clinical outcomes, and create a best-in-class patient experience.
+
+If you're passionate about transforming healthcare and delivering meaningful care to those who need it most, Greater Good Health offers a purpose-driven, collaborative, and supportive environment where your work can make a lasting impact.
+
+The Role 
+
+We’re seeking a Business Intelligence Analyst to help build the analytics foundation at Greater Good Health. Our ideal candidate will be analytical, collaborative, and scrappy. The candidate must be obsessed with continuous improvement – exhibiting a growth mindset personally/professionally, while driving to create continual improvements to our Analytics processes and capabilities.
+
+As an early hire on our Data Analytics team, this role will come with a great deal of autonomy, a broad scope, and will allow you to put your fingerprints on our processes as we build it from the ground up. From day one, you will have an impact on the efficiency and effectiveness of our daily operations, and a lasting influence on our growth plans.
+
+Responsibilities
+
+Prepare, analyze, and summarize reports, while working to automate and streamline them into automated dashboards
+Conduct full lifecycle of analytics projects, including pulling, manipulating, and exporting data
+Develop analyses that identify trends and meaningful improvement opportunities; communicate findings to key stakeholders across the business
+Act as a liaison between staff and management, analyzing and interpreting data
+Prepare, analyze, and summarize various weekly, monthly, and periodic operational results for use by various key stakeholders
+Participate in regular meetings with management, assessing and addressing issues to identify and implement improvements toward efficient operations
+
+
+Qualifications
+
+Bachelor’s degree
+4+ years’ experience of demonstrated, advanced analytical skills with experience collecting, organizing, analyzing data, and communicating findings, preferably to executive-level leaders, and preferably in a healthcare environment
+Strong technical skills – Power BI and advanced Excel experience required; Snowflake or equivalent SQL experience preferred
+Claims experience preferred – Understanding/analyzing large claims datasets and deriving insights from them
+Strong written and verbal communication skills
+Excellent project management skills - Ability to prioritize and handle multiple tasks to support various team members; Ability to complete assignments in a thorough, accurate and timely manner; Attention to detail and follow-through in tasks to meet completing demands deliverables
+
+
+What Will Make You Successful At GGH
+
+If you “bring it” every day and are continually hungry to learn, share, and tackle challenges.
+You thrive in an environment that champions learning, growth, agency, and autonomy. We support each team member to work at the “top of their license” and find fulfillment in their work.
+We can trust that your words and actions align. We own our mistakes and share our learning with others. We think and act with consideration for people, time, rules, resources, ethics, and GGH’s success.
+
+
+Perks and Benefits:
+
+Free lunch and parking available daily for in office presence! 
+
+Competitive Compensation Package: We offer a competitive compensation package to recognize your valuable contributions and ensure your financial security.
+Comprehensive Medical, Dental, and Vision Benefits: Take advantage of comprehensive healthcare coverage, including medical, dental, and vision benefits, to prioritize your health and well-being. Flexible Spending Accounts (FSAs) and Health Savings Accounts (HSAs) available.
+Paid Time Off: Enjoy paid holidays, vacation time, and paid parental leave to maintain a healthy work-life balance and spend quality time with your loved ones.
+401K Program with Company Match: Plan for your future with our 401K program, featuring a company match, to help you save for retirement.
+Monthly Phone/Internet Reimbursement: Stay connected with our monthly phone and internet reimbursement, ensuring you have the tools you need to excel in your role.
+Comprehensive Life and AD&D Coverage: Enjoy peace of mind with 100% premiums covered by GGH for Basic Life and Accidental Death & Dismemberment (AD&D) insurance for full-time team members. Additionally, voluntary supplemental life insurance is offered at a discounted rate.
+Short-Term Disability Coverage: Gain additional financial security with voluntary short-term disability (STD) coverage. This benefit provides a percentage of your salary during periods of illness or injury that prevent you from working for a set period of time.
+Collaborative and Supportive Community: Join our collaborative and supportive GGH Nurse Practitioner Community, with dedicated care coordinators and MD advisors, to foster professional growth and success
+
+
+Don’t check off every box in the requirements listed above? Please apply anyway! Studies have shown that marginalized communities - such as women, LGBTQ+ and people of color - are less likely to apply to jobs unless they meet every single qualification. GGH is dedicated to building an inclusive, diverse, equitable, and accessible workplace that fosters a sense of belonging – so if you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we encourage you to still consider applying. You may be just the right candidate for this role or another one of our openings!

@@ -1,0 +1,58 @@
+About the job
+Who We Are
+
+Headquartered in Southern California, Skechers—the Comfort Technology Company®—has spent over 30 years helping men, women, and kids everywhere look and feel good. Comfort innovation is at the core of everything we do, driving the development of stylish, high-quality products at a great value. From our diverse footwear collections to our expanding range of apparel and accessories, Skechers is a complete lifestyle brand.
+
+About The Role
+
+The Operations Analyst is responsible for delivering data-driven and financially informed insights, developing scalable reporting solutions, and supporting operational and financial decision-making through strong technical expertise and business acumen. This role plays a critical part in improving visibility, efficiency, cost management, and performance across multiple departments.
+
+Location: ONSITE at Skechers DC in Rancho Belago, CA
+
+(Relocation assistance is not offered for this role)
+
+Salary Range: $71,452 - $100,000 / Annually
+
+What You Will Do
+
+Design, build, and maintain dashboards and reports in Power BI and Excel to include advanced formulas and automation
+Extract, transform, and analyze large datasets using SQL including joins, CTEs, and query optimization, and DAX to support business and financial needs
+Develop and maintain analytical and financial models for forecasting, labor planning, cost analysis, KPI tracking, and performance analysis.
+Proactively identify trends, anomalies, cost drivers, and opportunities to improve operational and financial performance.
+Ensure all reporting is accurate, timely, and structured for clarity and usability across technical and non-technical audiences, including financial stakeholders
+Continuously improve reporting frameworks to enhance efficiency, scalability, and visual effectiveness
+Collaborate with cross-functional stakeholders to understand business and financial needs and translate them into analytical solutions
+Deliver actionable insights that support both day-to-day operations and financial/strategic decision-making
+Support recurring executive reporting, including KPI summaries, financial performance insights, and QBR materials
+Identify and implement opportunities to streamline manual processes through automation and improved data workflows
+Contribute to the development and standardization of datasets, metrics, and reporting structures, including financial definitions where applicable
+Support data quality initiatives, ensuring consistency, accuracy, and reliability across all outputs
+Validate data sources and outputs to maintain high standards of accuracy, integrity, and financial reliability
+Document data definitions, logic, and reporting methodologies to ensure transparency and repeatability
+Assist in maintaining structured and scalable data environments for reporting and analysis
+Proactively analyze and interpret database tables and fields to ensure data completeness and integrity
+
+Required Skills And Qualifications
+
+Bachelor’s degree or higher in Data Analytics, Supply Chain Management, Finance, Economics, Business Administration or closely related field. 
+Great analytical, critical thinking and problem-solving abilities
+Strong management, communication, and organizational skills
+Adaptable and capable of working in a fast-paced environment
+Competency in Microsoft applications including Word, Excel, and Outlook.
+Two or more years of analyst experience
+
+$71,452 - $100,000 / Annually
+
+About Skechers
+
+Skechers, a global Fortune 500® company, develops and markets a diverse range of lifestyle and performance footwear, apparel, and accessories. Serving over 180 countries and territories, Skechers connects customers to products through department and specialty stores, e-commerce and digital stores, and through our more than 5,300 Skechers retail locations.
+
+Equal Employment Opportunity
+
+Skechers is committed to providing a safe, inclusive, and respectful work environment. Skechers provides equal employment opportunities for all employees and applicants for employment without regard race, color, religion, gender, gender identification and expression, national origin, marital status, age, disability, genetic information, military status, sexual orientation, or any other protected characteristic established by local, state or federal law.
+
+Reasonable Accommodation
+
+Applicants for employment who require a reasonable accommodation to apply for a job should request appropriate accommodation by emailing benefits@skechers.com.
+
+To perform this job successfully, an individual must be able to perform each job responsibility satisfactorily. The skills, abilities and physical demands described are representative of those duties that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodation may be made to enable individuals with disabilities, who are otherwise qualified for the job position, to perform the essential functions.
