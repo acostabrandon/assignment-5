@@ -1,5 +1,4 @@
 streamlit>=1.35.0
-chromadb>=0.5.0
 huggingface-hub>=0.30.0
 python-dotenv>=1.0.0
 sentence-transformers>=2.7.0
@@ -10,3 +9,15 @@ langchain>=0.2.0
 langchain-openai>=0.1.0
 langchain-community>=0.2.0
 python-dotenv>=1.0.0
+streamlit>=1.35.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+pypdf>=4.0.0
+numpy>=1.26.0
+
+openai>=1.0.0
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-text-splitters>=0.2.0
