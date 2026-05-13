@@ -40,9 +40,28 @@ st.set_page_config(
     layout="wide"
 )
 
+# ══════════════════════════════════════════
+# API key loading
+# Works locally with .env and on Streamlit Cloud with st.secrets
+# ══════════════════════════════════════════
+
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = None
+
+# 1. Try Streamlit Cloud secrets first
+try:
+    OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY", None)
+except Exception:
+    OPENAI_API_KEY = None
+
+# 2. Fall back to local .env file
+if not OPENAI_API_KEY:
+    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+# 3. Optional: expose to libraries that expect environment variables
+if OPENAI_API_KEY:
+    os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 DATA_DIR = Path("data")
 JD_DIR = DATA_DIR / "job_descriptions"
